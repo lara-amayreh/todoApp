@@ -1,0 +1,9 @@
+.done{
+    text-decoration: line-through;
+    color: gray;
+}
+button{
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
